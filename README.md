@@ -38,4 +38,6 @@ This education website project demonstrates the effective use of modern web tech
 ## Live Demo
 We invite you to explore our website and experience the features firsthand. Click the link below to access the live demo:
 
-Live Demo <!-- Replace [https://reemabdelkader.github.io/Learnify-Educational-Website/]-->
+Live Demo <!-- Replace https://reemabdelkader.github.io/Learnify-Educational-Website/ with the actual URL of your live demo -->
+
+
