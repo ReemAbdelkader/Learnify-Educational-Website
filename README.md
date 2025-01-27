@@ -1,6 +1,4 @@
-# Learnify-Educational-Website
-
-# Education Website Project
+# Learnify Educational Website
 
 ## Overview
 This project is a comprehensive and responsive education website designed to provide users with an engaging and user-friendly experience. The website features a modern design, intuitive navigation, and a variety of interactive elements to enhance the learning experience.
